@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Swaksy7781/Leetcode/tree/master/0162-find-peak-element) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Swaksy7781/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Swaksy7781/Leetcode/tree/master/0162-find-peak-element) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Swaksy7781/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Two Pointers
 |  |
