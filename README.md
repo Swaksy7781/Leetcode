@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Swaksy7781/Leetcode/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Swaksy7781/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1317-monthly-transactions-i](https://github.com/Swaksy7781/Leetcode/tree/master/1317-monthly-transactions-i) |
 | [1390-average-selling-price](https://github.com/Swaksy7781/Leetcode/tree/master/1390-average-selling-price) |
 | [1801-average-time-of-process-per-machine](https://github.com/Swaksy7781/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
